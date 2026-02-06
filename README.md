@@ -2,8 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Divy Vaghasiya`
+- **CCID:** `vaghasiy`
+
+## Deleting Cities
+
+- Long press a city to select it then press delete button to delete the city.
 
 ## References and Resources
 
@@ -13,5 +17,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+| `NA`         | `NA`     |
+| `NA`         | `NA`     |
